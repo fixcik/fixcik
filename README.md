@@ -1,7 +1,7 @@
 # Hi, I'm Ivan 👋
 
-Senior Software Engineer with more than 17 years of commertial experience. I have excellent knowledge in backend development.
-n general worked with microservice arthitectures.
+Senior Software Engineer with over 17 years of professional experience. I possess a deep understanding of backend development, having worked extensively with microservice architectures.
+
 
 
 <p align='center'>
